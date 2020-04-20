@@ -1,6 +1,6 @@
 [submodule "Loop"]
 	path = Loop
-	url=https://github.com/ivalkou/Loop.git
+	url=https://github.com/bubbledevteam/Loop.git
 	branch = freeaps
 [submodule "LoopKit"]
 	path = LoopKit
@@ -35,3 +35,6 @@
 [submodule "NightscoutAPIClient"]
 	path = NightscoutAPIClient
 	url = https://github.com/ivalkou/NightscoutAPIClient.git
+[submodule "bubble-client-swift"]
+	path = bubble-client-swift
+	url = https://github.com/bubbledevteam/bubble-client-swift.git
